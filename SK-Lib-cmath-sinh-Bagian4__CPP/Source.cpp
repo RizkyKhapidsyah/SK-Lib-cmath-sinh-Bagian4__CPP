@@ -17,5 +17,6 @@ int main() {
 	result = sinh(x);
 	cout << "sinh(x) = " << result << endl;
 
+	_getch();
 	return 0;
 }
